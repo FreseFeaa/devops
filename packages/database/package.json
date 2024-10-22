@@ -1,13 +1,13 @@
 {
-    "name": "database",
-    "type": "module",
-    "dependencies": {
-        "@libsql/client": "^0.14.0",
-        "dotenv": "^16.4.5",
-        "drizzle-orm": "^0.35.2"
-    },
-    "devDependencies": {
-        "drizzle-kit": "^0.26.2",
-        "tsx": "^4.19.1"
-    }
+	"name": "database",
+	"type": "module",
+	"dependencies": {
+		"@libsql/client": "^0.14.0",
+		"dotenv": "^16.4.5",
+		"drizzle-orm": "^0.35.2"
+	},
+	"devDependencies": {
+		"drizzle-kit": "^0.26.2",
+		"tsx": "^4.19.1"
+	}
 }
