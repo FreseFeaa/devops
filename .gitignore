@@ -1,0 +1,10 @@
+node_modules
+
+.turbo
+build
+dist
+
+.env.*
+*.env
+
+pnpm-lock.yaml

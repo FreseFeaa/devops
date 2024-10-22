@@ -1,0 +1,8 @@
+{
+    "name": "meoow",
+    "type": "module",
+    "packageManager": "pnpm@9.12.2",
+    "devDependencies": {
+        "turbo": "^2.1.3"
+    }
+}
